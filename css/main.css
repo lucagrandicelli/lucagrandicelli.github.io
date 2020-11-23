@@ -195,6 +195,19 @@ footer ul {
     padding: 0;
 }
 
+ul > li > ul {
+    padding: 0 0 0 1em;
+    margin: 1em 0;
+    font-size: 1em;
+    line-height: 1.5;
+    list-style-type: square;
+}
+
+.job-period {
+    font-style: italic;
+    font-size: 1.4rem;
+}
+
 .u-container {
     max-width: 72rem;
     margin-right: auto;
